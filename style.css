@@ -29,6 +29,8 @@ body {
     position: relative;
   }
 }
+
+
 /* PAGINAS */
 .nav-link:hover {
   background-color: burlywood;
@@ -178,8 +180,3 @@ body {
 .footer {
   grid-area: footer;
 }
-
-
-
-
-
